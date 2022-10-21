@@ -5,3 +5,5 @@ modificación 2 despues de utilizar el comando git show
 
 usamos commit en blanco y salio una pantalla para colocar el mensaje, 
 luego usamos ESC+Z para activar y ctrl+X para salir
+guardado usando el alias 
+alias g='git add .'
