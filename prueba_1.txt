@@ -1,2 +1,4 @@
 Texto de prueba para practicar el uso de git, 
 modificación _1 despues de crear un commit.
+
+modificación 2 despues de utilizar el comando git show
